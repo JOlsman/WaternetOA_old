@@ -1,0 +1,4 @@
+hello                   Prints 'Hello, world!'
+map2arr                 Reads Sobek/Delwaq map output files into
+                        Array's
+readhis                 Reads Sobek his output files into Large Array's
