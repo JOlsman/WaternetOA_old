@@ -1,0 +1,7 @@
+iseven                  Controleert of een waarde een even getal is
+sbk_map2arr             Reads Sobek/Delwaq map output files into
+                        Array's
+sbk_readhis             Reads Sobek his output files into Large Array's
+tyg_find_id             zoekt via de Tygron API naar het ID nummer bij
+                        de desbetreffende Overlay
+tyg_readtql             Leest een query vanaf de Tygron API server
